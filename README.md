@@ -247,7 +247,7 @@ Define the client connection to the database server outside the AWS Lambda handl
 
 https://aws.amazon.com/step-functions/
 
-Use AWS Step Functioons to define and manage your workflows in the Amazon States Language. Also, the Step Functions Console provides a graphical representation of the state machine to help visualize your application logic.
+Use AWS Step Functions to define and manage your workflows in the Amazon States Language. Also, the Step Functions Console provides a graphical representation of the state machine to help visualize your application logic.
 
 Step functions can specify whether it should be re-tried on failure. You can specify the interval between retries, the maximum number of attempts and the back-off rate. This means that you can prevent your process from failing due a temporary outage in one of your dependencies.
 
